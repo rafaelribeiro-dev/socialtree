@@ -12,7 +12,7 @@ Desafio do curso [Discover](https://app.rocketseat.com.br/discover) da Rocketsea
 
 ## 🖥Live Preview
 
-Live Preview [SocialTree]()
+Live Preview [SocialTree](https://rafaelribeiro-dev.github.io/socialtree/)
 
 ## 🚀 Tecnologias
 
