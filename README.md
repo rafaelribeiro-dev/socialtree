@@ -1,10 +1,10 @@
 <h1 align="center">
- Desafio Social Tree - Rocketseat
+ Desafio SocialTree - Rocketseat
 </h1>
 
 <br>
 
-![Resultado final do projeto]()
+![Resultado final do projeto](https://github.com/rafaelribeiro-dev/socialtree/blob/main/assets/cover.png)
 
 ## 📝 Descrição
 
