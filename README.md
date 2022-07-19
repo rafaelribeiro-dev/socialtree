@@ -10,9 +10,9 @@
 
 Desafio do curso [Discover](https://app.rocketseat.com.br/discover) da Rocketseat. </br></br>
 
-## Live Preview
+## 🖥Live Preview
 
-Live Preview [RocketCoffee]()
+Live Preview [SocialTree]()
 
 ## 🚀 Tecnologias
 
@@ -22,3 +22,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - CSS
 
 ---
+
+Desenvolvido com 💜 por Rafael Ribeiro
